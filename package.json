@@ -1,0 +1,13 @@
+{
+  "name": "Unitel-SG-numeros-de-clientes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node ./src/app.ts"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.3.3"
+  }
+}
